@@ -92,6 +92,7 @@ user_data = pd.DataFrame([[
 user_pred = clf.predict(user_data)[0]
 result = " High Performer " if user_pred == 1 else " Low Performer "
 print(f"\n Prediction Result: {result}")
+```
 
 ### Output:
 
