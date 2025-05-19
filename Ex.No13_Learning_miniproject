@@ -1,4 +1,4 @@
-# Ex.No: 13 Student performance prediction using machine learning
+```# Ex.No: 13 Student performance prediction using machine learning
 ### DATE:  13/05/2025                                                                          
 ### REGISTER NUMBER : 212222040009
 ### AIM: 
@@ -97,4 +97,4 @@ print(f"\n Prediction Result: {result}")
 
 
 ### Result:
-Thus the system was trained successfully and the prediction was carried out.
+Thus the system was trained successfully and the prediction was carried out.```
