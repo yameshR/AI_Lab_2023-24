@@ -6,7 +6,7 @@
 To perform object detection on an image (e.g., cat.jpg) using OpenCV and a pre-trained MobileNet SSD model trained on the 
 COCO dataset, and to display the detected object(s) with bounding boxes and labels.
 
-### 🧠 **Algorithm:**
+### **Algorithm:**
 
 1. **Import Required Libraries**
    Import OpenCV and Colab-specific display tools.
@@ -90,7 +90,7 @@ cv2_imshow(img)
 ### Output:
 ![CAT output](https://github.com/user-attachments/assets/dc974a7b-b57f-4fdd-8f54-9fd2aa549500)
 
-### 📸 **Result:**
+###  **Result:**
 
 * The image `cat.jpg` is analyzed.
 * The model detects a **cat** (class ID 17) with a high confidence.
