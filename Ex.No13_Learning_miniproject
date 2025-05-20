@@ -85,6 +85,9 @@ for classId, confidence, box in zip(classIds.flatten(), confs.flatten(), bbox):
 
 cv2_imshow(img)
 ```
+### Output
+![CAT output](https://github.com/user-attachments/assets/dc974a7b-b57f-4fdd-8f54-9fd2aa549500)
+
 ###  **Result:**
 
 * The image `cat.jpg` is analyzed.
