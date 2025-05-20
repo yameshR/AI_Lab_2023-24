@@ -39,7 +39,7 @@ COCO dataset, and to display the detected object(s) with bounding boxes and labe
    * Display the image with the detection results using `cv2_imshow()`.
 
 ### Program:
-~~~
+```
 import cv2
 from google.colab.patches import cv2_imshow
      
@@ -84,12 +84,7 @@ for classId, confidence, box in zip(classIds.flatten(), confs.flatten(), bbox):
      
 
 cv2_imshow(img)
-~~~
-
-
-### Output:
-![CAT output](https://github.com/user-attachments/assets/dc974a7b-b57f-4fdd-8f54-9fd2aa549500)
-
+```
 ###  **Result:**
 
 * The image `cat.jpg` is analyzed.
